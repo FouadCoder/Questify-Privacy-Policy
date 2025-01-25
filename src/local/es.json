@@ -1,0 +1,25 @@
+{
+    "english" : "Inglés",
+    "spanish": "Español",
+    "arabic": "Árabe",
+    "german": "Alemán" ,
+
+
+
+    "dataWeCollect": "Datos que Recopilamos",
+    "dataWeCollectContent": "La información de tu perfil, como tu nombre, logros e historial de desafíos, se almacena únicamente en tu dispositivo utilizando una base de datos local. No subimos, compartimos ni accedemos a estos datos en ningún servidor.",
+    "internetUse": "Uso de Internet",
+    "internetUseContent": "La aplicación no requiere conexión a Internet para la mayoría de las funciones. Internet se utiliza solo para notificaciones dentro de la aplicación (actualizaciones generales e información sobre desafíos) y para enviar comentarios a nuestro servidor.",
+    "notificationsPrivacy": "Privacidad de las Notificaciones",
+    "notificationsPrivacyContent": "Todas las notificaciones se muestran dentro de la aplicación. Las notificaciones incluyen actualizaciones sobre nuevos desafíos e información general relacionada con la aplicación.",
+    "permissionsWeRequest": "Permisos que Solicitamos",
+    "permissionsWeRequestContent": "Podemos solicitar acceso a la cámara solo si decides tomar una foto para tu perfil y acceso al almacenamiento solo si subes una foto desde tu dispositivo para tu perfil. Estos permisos son únicamente para personalizar tu perfil, y las fotos del perfil se almacenan solo en tu dispositivo. No recopilamos ni accedemos a estas imágenes.",
+    "howWeUseYourData": "Cómo Usamos tus Datos",
+    "howWeUseYourDataContent": "Tus datos se utilizan únicamente para las funciones principales de la aplicación, como gestionar desafíos, rastrear logros y personalizar tu perfil. Todos los datos permanecen en tu dispositivo. No recopilamos, compartimos ni vendemos tus datos.",
+    "feedbackSubmission": "Envío de Comentarios",
+    "feedbackSubmissionContent": "Si decides enviar comentarios, se envían a nuestro servidor para ayudarnos a mejorar la aplicación. Cuando envías comentarios, no recopilamos datos personales, como tu nombre u otra información de identificación. Solo se envía el contenido de los comentarios que escribes.",
+    "appUsageAndDataStorage": "Uso de la Aplicación y Almacenamiento de Datos",
+    "appUsageAndDataStorageContent": "Puedes usar la aplicación sin crear una cuenta o iniciar sesión. Toda la información de tu perfil, preferencias de idioma y configuraciones se almacenan localmente en tu dispositivo y no se comparten con ningún servidor." ,
+
+    "contentUS" : " Contáctanos: " 
+}

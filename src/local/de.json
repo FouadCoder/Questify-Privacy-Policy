@@ -1,0 +1,26 @@
+{
+    "english" : "Englisch",
+    "spanish": "Spanisch",
+    "arabic": "Arabisch",
+    "german": "Deutsch" ,
+
+
+
+    "dataWeCollect": "Daten, die wir sammeln",
+    "dataWeCollectContent": "Ihre Profilinformationen, wie Ihr Name, Erfolge und Challenge-Historie, werden nur auf Ihrem Gerät in einer lokalen Datenbank gespeichert. Wir laden diese Daten nicht auf Server hoch, teilen sie nicht oder greifen darauf zu.",
+    "internetUse": "Internetnutzung",
+    "internetUseContent": "Die App benötigt für die meisten Funktionen keine Internetverbindung. Das Internet wird nur für Benachrichtigungen innerhalb der App (allgemeine Updates und Challenge-Informationen) und zum Senden von Feedback an unseren Server verwendet.",
+    "notificationsPrivacy": "Datenschutz bei Benachrichtigungen",
+    "notificationsPrivacyContent": "Alle Benachrichtigungen werden innerhalb der App angezeigt. Benachrichtigungen enthalten Updates zu neuen Challenges und allgemeine Informationen zur App.",
+    "permissionsWeRequest": "Berechtigungen, die wir anfordern",
+    "permissionsWeRequestContent": "Wir können Zugriff auf die Kamera anfordern, falls Sie ein Foto für Ihr Profil aufnehmen möchten, und Zugriff auf den Speicher, falls Sie ein Foto von Ihrem Gerät für Ihr Profil hochladen möchten. Diese Berechtigungen dienen ausschließlich der Profilanpassung, und die Profilfotos werden nur auf Ihrem Gerät gespeichert. Wir sammeln oder greifen nicht auf diese Bilder zu.",
+    "howWeUseYourData": "Wie wir Ihre Daten verwenden",
+    "howWeUseYourDataContent": "Ihre Daten werden ausschließlich für die Kernfunktionen der App verwendet, wie die Verwaltung von Challenges, die Verfolgung von Erfolgen und die Anpassung Ihres Profils. Alle Daten verbleiben auf Ihrem Gerät. Wir sammeln, teilen oder verkaufen Ihre Daten nicht.",
+    "feedbackSubmission": "Feedback übermitteln",
+    "feedbackSubmissionContent": "Wenn Sie Feedback senden, wird dieses an unseren Server gesendet, um uns bei der Verbesserung der App zu helfen. Beim Senden von Feedback erfassen wir keine persönlichen Daten wie Ihren Namen oder andere identifizierende Informationen. Es wird nur der von Ihnen verfasste Feedback-Inhalt gesendet.",
+    "appUsageAndDataStorage": "Nutzung der App und Datenspeicherung",
+    "appUsageAndDataStorageContent": "Sie können die App ohne Kontoerstellung oder Anmeldung nutzen. Alle Ihre Profilinformationen, Spracheinstellungen und Einstellungen werden lokal auf Ihrem Gerät gespeichert und nicht mit einem Server geteilt." ,
+
+
+    "contentUS" : "Kontaktieren Sie uns: "
+}

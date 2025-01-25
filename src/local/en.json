@@ -1,0 +1,25 @@
+{
+    "english" : "English",
+    "spanish" : "Spanish",
+    "arabic" : "Arabic",
+    "german" : "German" ,
+
+
+
+    "dataWeCollect": "Data We Collect",
+    "dataWeCollectContent": "Your profile information, such as your name, achievements, and challenge history, is stored only on your device using a local database. We do not upload, share, or access this data on any server.",
+    "internetUse": "Internet Use",
+    "internetUseContent": "The app does not require an internet connection for most features. Internet is used only for in-app notifications (general updates and challenge information) and for submitting feedback to our server.",
+    "notificationsPrivacy": "Notifications Privacy",
+    "notificationsPrivacyContent": "All notifications are displayed inside the app itself. Notifications include updates about new challenges and general information related to the app.",
+    "permissionsWeRequest": "Permissions We Request",
+    "permissionsWeRequestContent": "We may request camera access only if you choose to take a photo for your profile and storage access only if you upload a photo from your device for your profile. These permissions are solely for profile customization, and the profile photos are stored only on your device. We do not collect or access these images.",
+    "howWeUseYourData": "How We Use Your Data",
+    "howWeUseYourDataContent": "Your data is used solely for core app functionality, such as managing challenges, tracking achievements, and customizing your profile. All data remains on your device. We do not collect, share, or sell your data.",
+    "feedbackSubmission": "Feedback Submission",
+    "feedbackSubmissionContent": "If you choose to send feedback, it is sent to our server to help us improve the app. When you submit feedback, we do not collect any personal data, such as your name or other identifying information. Only the feedback content you write is sent to us.",
+    "appUsageAndDataStorage": "App Usage and Data Storage",
+    "appUsageAndDataStorageContent": "You can use the app without creating an account or logging in. All your profile information, language preferences, and settings are stored locally on your device and are not shared with any server." ,
+
+    "contentUS" : "Content Us: "
+}

@@ -1,0 +1,179 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  background-color: #1E1E1E;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: #4D00FF;
+}
+
+header {
+  padding: 2%;
+  display: flex;
+  align-items: center; /* Vertically center the items */
+  justify-content: space-between; /* Space out the items */
+  font-size: 1rem;
+  color: white;
+  height: 50px;
+  width: 100%;
+  overflow: hidden;
+  border-bottom: 1px solid gray;
+  position: relative; /* Needed for absolute positioning of the text */
+}
+
+.language {
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.menu {
+  padding-left: 0%;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+h1 {
+  margin: 0; 
+  display: flex;
+  white-space: nowrap;
+  align-items: center;
+  gap: 10px;  /* Add spacing between "Questify" and "Privacy Policy" */
+}
+
+.app-name {
+  color: #4D00FF;
+}
+
+
+.side-bar .ant-drawer-content {
+  background-color: #1E1E1E; /* Dark background color */
+}
+
+/* Change the text color inside the Drawer */
+.side-bar .ant-drawer-body {
+  color: #1E1E1E; /* Ensure text is readable */
+}
+
+/* Change the header background color */
+.side-bar .ant-drawer-header {
+  background-color: #1E1E1E; /* Match the Drawer background */
+  border-bottom: 1px solid #333; /* Optional: Add a border */
+}
+
+/* Change the header title color */
+.side-bar .ant-drawer-title {
+  color: white; /* Ensure the title is readable */
+}
+
+/* Change the close button color */
+.side-bar .ant-drawer-close {
+  color: white; /* Ensure the close button is visible */
+}
+
+
+.language-bar .ant-drawer-close {
+  color: white; /* Ensure the close button is visible */
+}
+
+.main {
+  display: flex;
+  flex-grow: 1;
+  background-color: #1E1E1E;
+}
+
+.side-content {
+  padding-right: 3%;
+  width: 20%;
+  border-right: 1px solid gray;
+  justify-content: start;
+  flex-shrink: 0;
+}
+.side-bar-content {
+  padding-right: 3%;
+  border-right: 1px solid gray;
+  justify-content: start;
+  flex-shrink: 0;
+}
+
+.side-list {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+li {
+  color: #E0E0E0;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 10%;
+  padding-left: 1%;
+  cursor: pointer;
+}
+
+.side-list li:hover {
+  color: #4D00FF;
+}
+
+.content-area {
+  display: block;
+  padding: 1%;
+  flex-grow: 1;
+  overflow-y: auto;
+  height: calc(100vh - 100px); /* Subtract header height from the total height */
+}
+
+h2 {
+  color: white;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+p{
+  color: white;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+.contentUs {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+
+.email {
+  margin-left: 5px;
+  color: #4D00FF;
+  cursor: pointer;
+  pointer-events: auto;
+}
