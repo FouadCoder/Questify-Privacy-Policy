@@ -10,6 +10,7 @@ import './App.css';
 
 
 function App() {
+  // Content of the app
   const contentApp = [
     {
       id: 1,
@@ -47,7 +48,7 @@ function App() {
       content: i18next.t("appUsageAndDataStorageContent"),
     },
   ];
-
+// Language List
   const languageList = [
     { id: 1, language: i18next.t('english') , code : 'en' }, 
     { id: 2, language: i18next.t('spanish')  , code : 'es' }, 
@@ -141,6 +142,7 @@ const listLanguage = languageList.map((element) => (
       </div>
     </Drawer>
 
+
     {/* Language Sidebar */}
     <Drawer
       className="language-bar"
@@ -155,6 +157,7 @@ const listLanguage = languageList.map((element) => (
       </div>
     </Drawer>
 
+
     {/* Header */}
     <header>
       <div>
@@ -167,12 +170,14 @@ const listLanguage = languageList.map((element) => (
         )}
       </div>
 
+
       <div>
         <h1>
           <span className="app-name">Questify</span>
           <span>Privacy Policy</span>
         </h1>
       </div>
+
 
       {/* Language */}
       <div>
@@ -183,6 +188,7 @@ const listLanguage = languageList.map((element) => (
         </button>
       </div>
     </header>
+
 
     <div className="main">
       {/* Side Content */}
