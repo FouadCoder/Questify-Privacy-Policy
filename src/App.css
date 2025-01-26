@@ -69,8 +69,37 @@ h1 {
 }
 
 .app-name {
+  font-size: 2rem; /* Adjust as needed */
+  font-weight: bold;
   color: #4D00FF;
 }
+
+.privacy-policy {
+  font-size: 1.5rem; /* Adjust as needed */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .app-name {
+    font-size: 1.5rem; /* Smaller font size for small screens */
+  }
+
+  .privacy-policy {
+    font-size: 1.2rem; /* Smaller font size for small screens */
+  }
+}
+
+/* Media query for very small screens (e.g., mobile) */
+@media (max-width: 480px) {
+  .app-name {
+    font-size: 1.2rem; /* Even smaller font size for mobile */
+  }
+
+  .privacy-policy {
+    font-size: 1rem; /* Even smaller font size for mobile */
+  }
+}
+
 
 
 .side-bar .ant-drawer-content {

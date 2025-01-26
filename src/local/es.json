@@ -21,5 +21,6 @@
     "appUsageAndDataStorage": "Uso de la Aplicación y Almacenamiento de Datos",
     "appUsageAndDataStorageContent": "Puedes usar la aplicación sin crear una cuenta o iniciar sesión. Toda la información de tu perfil, preferencias de idioma y configuraciones se almacenan localmente en tu dispositivo y no se comparten con ningún servidor." ,
 
-    "contentUS" : " Contáctanos: " 
+    "contentUS" : " Contáctanos: " ,
+    "privacyPolicy" : "Política de Privacidad" 
 }

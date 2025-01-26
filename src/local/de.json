@@ -22,5 +22,6 @@
     "appUsageAndDataStorageContent": "Sie können die App ohne Kontoerstellung oder Anmeldung nutzen. Alle Ihre Profilinformationen, Spracheinstellungen und Einstellungen werden lokal auf Ihrem Gerät gespeichert und nicht mit einem Server geteilt." ,
 
 
-    "contentUS" : "Kontaktieren Sie uns: "
+    "contentUS" : "Kontaktieren Sie uns: " ,
+    "privacyPolicy" : "Datenschutzrichtlinie"
 }

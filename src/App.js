@@ -174,7 +174,7 @@ const listLanguage = languageList.map((element) => (
       <div>
         <h1>
           <span className="app-name">Questify</span>
-          <span>Privacy Policy</span>
+          <span className='privacy-policy'>{i18next.t('privacyPolicy')}</span>
         </h1>
       </div>
 

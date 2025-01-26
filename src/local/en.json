@@ -21,5 +21,6 @@
     "appUsageAndDataStorage": "App Usage and Data Storage",
     "appUsageAndDataStorageContent": "You can use the app without creating an account or logging in. All your profile information, language preferences, and settings are stored locally on your device and are not shared with any server." ,
 
-    "contentUS" : "Content Us: "
+    "contentUS" : "Content Us: " ,
+    "privacyPolicy" : "Privacy Policy"
 }
