@@ -75,7 +75,7 @@ h1 {
 }
 
 .privacy-policy {
-  font-size: 1.5rem; /* Adjust as needed */
+  font-size: 2rem; /* Adjust as needed */
 }
 
 /* Media query for smaller screens */
@@ -85,7 +85,7 @@ h1 {
   }
 
   .privacy-policy {
-    font-size: 1.2rem; /* Smaller font size for small screens */
+    font-size: 1.5rem; /* Smaller font size for small screens */
   }
 }
 
@@ -96,7 +96,7 @@ h1 {
   }
 
   .privacy-policy {
-    font-size: 1rem; /* Even smaller font size for mobile */
+    font-size: 1.2rem; /* Even smaller font size for mobile */
   }
 }
 
