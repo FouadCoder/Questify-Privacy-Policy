@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Questify-Privacy-Policy/static/css/main.43e056a4.css",
-    "main.js": "/Questify-Privacy-Policy/static/js/main.284100fa.js",
+    "main.css": "/Questify-Privacy-Policy/static/css/main.2b7c53e2.css",
+    "main.js": "/Questify-Privacy-Policy/static/js/main.b2d64eec.js",
     "index.html": "/Questify-Privacy-Policy/index.html",
-    "main.43e056a4.css.map": "/Questify-Privacy-Policy/static/css/main.43e056a4.css.map",
-    "main.284100fa.js.map": "/Questify-Privacy-Policy/static/js/main.284100fa.js.map"
+    "main.2b7c53e2.css.map": "/Questify-Privacy-Policy/static/css/main.2b7c53e2.css.map",
+    "main.b2d64eec.js.map": "/Questify-Privacy-Policy/static/js/main.b2d64eec.js.map"
   },
   "entrypoints": [
-    "static/css/main.43e056a4.css",
-    "static/js/main.284100fa.js"
+    "static/css/main.2b7c53e2.css",
+    "static/js/main.b2d64eec.js"
   ]
 }
